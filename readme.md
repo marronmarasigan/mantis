@@ -1,3 +1,9 @@
+<object data="https://github.com/marronmarasigan/mantis/raw/master/User%20Manual%20Manila%20Tourist%20Information%20System.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/marronmarasigan/mantis/raw/master/User%20Manual%20Manila%20Tourist%20Information%20System.pdf">
+        <p>Please download the PDF to view it: <a href="https://github.com/marronmarasigan/mantis/raw/master/User%20Manual%20Manila%20Tourist%20Information%20System.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # mantis
 
 # Manila Tourist Information System
